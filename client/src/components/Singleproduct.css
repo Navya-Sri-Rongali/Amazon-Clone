@@ -1,0 +1,21 @@
+.single_name{
+    font-size: 20px;
+    font-weight: bolder;
+}
+.single_price{
+    font-size: 20px;
+    font-weight: bolder;
+    margin-bottom: 10px;
+}
+.single_whole_product{
+    padding: 10px;
+    margin:5px 250px;
+    box-shadow: 10px 10px 5px rgb(177, 180, 180);
+}
+.button{
+    padding: 5px 70px;
+}
+.single_image{
+    width:400px;
+    height:400px;
+}

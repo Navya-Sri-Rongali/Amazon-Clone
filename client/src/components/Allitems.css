@@ -1,0 +1,35 @@
+.card_data_container{
+    /* box-shadow: 10px 10px 5px rgb(203, 204, 204); */
+    /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+    /* box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; */
+    /* box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px; */
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin:23px;
+    
+}
+.add-del-plus{
+    margin-left:260px;
+    font-size: 20px;
+    background-color: white;
+    border-color: rgb(138, 137, 136);
+    border-radius: 10px;
+}
+.add-del-minus {
+    
+    font-size: 20px;
+    background-color: white;
+    border-color: rgb(138, 137, 136);
+    border-radius: 10px;
+}
+.all_products{
+    display: flex;
+    flex-wrap: wrap;
+    
+    overflow-y: scroll;
+    height: 100vh;
+}

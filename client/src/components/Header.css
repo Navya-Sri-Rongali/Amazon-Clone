@@ -1,0 +1,43 @@
+.inside_search_bar{
+    width:500px;
+    height:25px;
+    border:none;
+    outline:0;
+    
+}
+.amazon_logo{
+    margin: 5px;
+    margin-bottom: 0;
+}
+.total_search_bar{
+    margin-left:300px;
+    display: flex;
+    border:2px solid lightgrey;
+    width:535px;
+    height:30px;
+    border-radius:10px ;
+    background-color: white;
+}
+.header{
+    display:flex;
+    background-color:orange;
+    align-items: center;
+    position:sticky;
+    width: 100vw;
+}
+.total_cart{
+    margin-left: 190px;
+    display: flex;
+    align-items: center;
+    
+}
+.only_cart{
+    color: black;
+}
+.no_of_items{
+    font-size: 18px;
+    font-weight: 500;
+}
+.selectform{
+    margin-left: 200px;
+}
