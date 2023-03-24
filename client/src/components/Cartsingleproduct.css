@@ -1,0 +1,19 @@
+.cart_product_name{
+    font-size: 20px;
+}
+.cart_product_price{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 7px;
+}
+.cart_whole_product{
+    
+    background-color: white;
+    padding: 40px 40px;
+    margin:20px;
+    box-shadow: 10px 10px 5px rgb(203, 204, 204);
+}
+.cart_button{
+    padding:3px 70px;
+    
+}

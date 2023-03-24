@@ -1,0 +1,21 @@
+.ininput {
+    margin: 15px;
+    width: 500px;
+    height: 40px;
+    font-size: 18px;
+    color: navy;
+}
+
+.inbutton {
+    margin: 20px;
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: orange;
+    border: none;
+}
+
+.inbutton:hover {
+    background-color: rgb(246, 224, 185);
+    border: orange;
+}
